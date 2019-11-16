@@ -1,4 +1,4 @@
-# ControlLampDisplayTemp[https://github.com/linfirst/ControlLampDisplayTemp]
+# [ControlLampDisplayTemp](https://github.com/linfirst/ControlLampDisplayTemp)
 
 手机通过连接esp8266 WiFi模块的WiFi信号，使用socket编程，和硬件进行数据交换。
 
